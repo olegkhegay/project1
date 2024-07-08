@@ -1,0 +1,155 @@
+/* .wrap{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    font-size: 100px;
+    
+}
+.box3{
+    height: 400px;
+} */
+.wrap{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    font-size: 100px;
+    border-radius: 15%;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    border: 3px solid rgb(255, 0, 0);
+    font-size: 100px;
+    border-radius: 15%;
+}
+.box3{
+    height: 70px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.box5{
+    height: 70px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: pink;
+}
+.box6{
+    height: 70px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: blue;
+}
+.a1{
+    height: 90px;
+    width: 450px;
+    border: 3px solid red;
+    background-color: grey;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.main2{
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+}
+.i1{
+    height: 6px;
+    width: 70px;
+    background-color: red;
+}
+.i2{
+    height: 6px;
+    width: 70px;
+    background-color: red;
+
+}
+.v1{
+    height: 70px;
+    width: 85px;
+    border: 2px solid white;
+    border-radius: 50%;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.v2{
+    height: 70px;
+    width: 85px;
+    border: 2px solid white;
+    border-radius: 50%;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.e1{
+    height: 55px;
+    width: 6px;
+    background-color: red;
+}
+.e2{
+    height: 55px;
+    width: 6px;
+    background-color: red;
+}
+.a2{
+    height: 90px;
+    width: 90px;
+    border: 3px solid brown;
+    border-radius: 15%;
+}
+.b1{
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 2px solid grey;
+}
+.b2{
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    width:150px;
+    height: 150px;
+    background-color: red;
+    border: 2px solid grey;
+}
+.b3{
+    clip-path: polygon(21% 20%, 48% 6%, 70% 29%, 56% 35%, 79% 50%, 65% 56%, 88% 84%, 41% 60%, 50% 52%, 25% 40%, 35% 31%);
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 2px solid grey;
+}
+.b4{
+    clip-path: polygon(49% 33%, 72% 17%, 87% 36%, 76% 61%, 65% 80%, 50% 96%, 32% 79%, 20% 64%, 11% 35%, 20% 17%);
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 3px solid grey;
+}
+.t1{
+    border: 4px solid rgb(228, 228, 18);
+    border-radius: 20%;
+    margin: 0 auto;
+    padding: 15px;
+}
